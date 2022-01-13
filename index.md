@@ -14,3 +14,14 @@ Tu objavljam zbirko zapiskov, ki sem jih naredil tekom študija fizke na Fakulte
 
 ### TODO:
 Dodati moram Fizikalni praktikum I, Fizikalni praktikum II
+
+## 2. Letnik
+* [Astronomija I]({%link fmf-pages/year2/ast1.md %})
+* [Astronomija II]({%link fmf-pages/year2/ast2.md %})
+* [Klasična mehanika]({%link fmf-pages/year2/klm.md %})
+* [Statistična termodinamika]({%link fmf-pages/year2/std.md %})
+* [Matematika III]({%link fmf-pages/year2/mat3.md %})
+* [Matematika IV]({%link fmf-pages/year2/mat4.md %})
+* [Moderna fizika I]({%link fmf-pages/year2/modfiz1.md %})
+* [Moderna fizika II]({%link fmf-pages/year2/modfiz2.md %})
+* [Verjetnost v fiziki]({%link fmf-pages/year2/vvf.md %})
