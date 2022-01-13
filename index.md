@@ -10,7 +10,4 @@ Tu objavljam zbirko zapiskov, ki sem jih naredil tekom študija fizke na Fakulte
 * [Klasična fizika]({% link fmf-pages/year1/klafiz.md %})
 * [Matematika I]({% link fmf-pages/year1/mat1.md %})
 * [Matematika II]({% link fmf-pages/year1/mat2.md %})
-
-
-### TODO:
-Dodati moram Fizikalni praktikum I, Fizikalni praktikum II
+* [Računalniški praktikum]({% link https://github.com/pengu5055/RacunalniskiPraktikum %})
