@@ -1,7 +1,7 @@
 ---
 title: Fizikalni praktikum II
 ---
-# Fizikalni praktikum I
+# Fizikalni praktikum II
 Pri Fizikalnem praktikumu II se je začel prvi val korona virusa. To pomeni, da smo predmet izvajali na daljavo. Ustrezno imam poslikane/skenirane svoja poročila iz zvezka. Mogoče niso ravno vrhunec estetike, ampak vseeno mogoče nudijo kakšen uporaben insight.
 
 * [Absorpcija sevanja gama]({%link fmf-pdf/year1/AbsorpcijaSevanjaGama69.pdf %})
@@ -15,4 +15,4 @@ Pri Fizikalnem praktikumu II se je začel prvi val korona virusa. To pomeni, da 
 * [Tuljava v magnetnem polju]({%link fmf-pdf/year1/TuljavaVMagnetnemPolju45.pdf %})
 * [Vsiljeno nihanje el. nihajnega kroga]({%link fmf-pdf/year1/VsiljenoNihanjeElekticniKrog43.pdf %})
 * [Wehatsonov most]({%link fmf-pdf/year1/WheatstonovMost40.pdf %})
-* [**Fizikalni praktikum 2 viri**](https://github.com/pengu5055/FizPrakII)
+* [**Fizikalni praktikum II viri**](https://github.com/pengu5055/FizPrakII)
