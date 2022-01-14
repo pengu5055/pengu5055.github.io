@@ -15,8 +15,6 @@ Tu objavljam zbirko zapiskov, ki sem jih naredil tekom študija fizke na Fakulte
 * [Fizikalni praktikum II]({% link fmf-pages/year1/fp2.md %})
 * [Računalniški praktikum](https://github.com/pengu5055/RacunalniskiPraktikum)
 
-### TODO:
-Dodati moram Fizikalni praktikum I, Fizikalni praktikum II
 
 ## 2. Letnik
 * [Astronomija I]({%link fmf-pages/year2/ast1.md %})
