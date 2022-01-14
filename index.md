@@ -28,7 +28,7 @@ Dodati moram Fizikalni praktikum I, Fizikalni praktikum II
 * [Moderna fizika I]({%link fmf-pages/year2/modfiz1.md %})
 * [Moderna fizika II]({%link fmf-pages/year2/modfiz2.md %})
 * [Verjetnost v fiziki]({%link fmf-pages/year2/vvf.md %})
-* [Fizikalni praktikum III]({% link fmf-pages/year1/fp3.md %})
-* [Fizikalni praktikum IV]({% link fmf-pages/year1/fp4.md %})
+* [Fizikalni praktikum III]({% link fmf-pages/year2/fp3.md %})
+* [Fizikalni praktikum IV]({% link fmf-pages/year2/fp4.md %})
 
 ![Chest of work](./chest.png)
