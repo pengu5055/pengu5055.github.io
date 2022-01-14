@@ -9,3 +9,5 @@ Slednje zapiske sem naredil za ustni izpit pri Moderni fiziki I. Te zapiski so s
 * [Kvantna fizika 1. del]({% link fmf-pdf/year2/MF1_Kvantna_Fizika_wip.pdf %})
 * [Kvantna fizika 2. del]({% link fmf-pdf/year2/MF1_Kvantna_Fizika2_wip.pdf %})
 * [Kvantna fizika 3. del]({% link fmf-pdf/year2/MF1_Kvantna_Fizika3_wip.pdf %})
+* [Vprašanja na ustnem izpitu 2019/20 in 2020/21](https://docs.google.com/document/d/10O2gS6wI-35Q9RcfUOVxWkGLLkhs1t_FrIQ8Fub-x5E/edit#heading=h.r6uuikvi811v)
+Zahvala vsem kolegom, ki so prispevali k zapisu vprašanj na izpitu. Velika zahvala tudi kolegu, ki je posredoval še njihovo zbirko vprašanj iz leta 2019/20.

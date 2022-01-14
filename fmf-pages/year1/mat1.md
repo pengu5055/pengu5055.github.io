@@ -6,3 +6,5 @@ Za ustni izpit sem se pripravljal tako, da sem si ustvaril sledeče zapiske. Nar
 
 * [Prvi del]({% link fmf-pdf/year1/MAT1_Ustni1a_ver1.pdf %})
 * [Drugi del]({% link fmf-pdf/year1/MAT1_UstniForum_ver1.pdf %})
+* [Pogosta vprašanja pri Mrčunu](https://docs.google.com/document/d/1JQ4PvRNBshI0oznlOQ1FK5nP0hcYOPJhPraxlapYB_A/edit)
+To zbirko pogostih vprašanj smo nabirali s kolegi.

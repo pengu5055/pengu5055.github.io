@@ -10,3 +10,5 @@ Objavljam tudi svoje rešitve domačih nalog, ker so iz leta v leto menda dosti 
 * [1. domača naloga]({% link fmf-pdf/year2/STD_DN1.pdf %})
 * [2. domača naloga]({% link fmf-pdf/year2/STD_dn2.pdf %})
 * [3. domača naloga]({% link fmf-pdf/year2/STD_dn3_28191096.pdf %})
+* [Vprašanja na ustnem izpitu 2022/21](https://docs.google.com/document/d/1US19pm0C4xQN9Tmx8UB1VNtLRotkY4Ejo_ysCK8Wvp8/edit#heading=h.airy9zohlld5)
+Zahvala vsem kolegom, ki so prispevali k zapisu vprašanj na izpitu.
