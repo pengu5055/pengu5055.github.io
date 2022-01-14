@@ -29,4 +29,8 @@ Tu objavljam zbirko zapiskov, ki sem jih naredil tekom študija fizke na Fakulte
 * [Fizikalni praktikum III]({% link fmf-pages/year2/fp3.md %})
 * [Fizikalni praktikum IV]({% link fmf-pages/year2/fp4.md %})
 
+## 3. Letnik
+* [Fizikalni praktikum V]({%link fmf-pages/year3/fp5.md %})
+* [Matematično-fizikalni praktikum]({%link fmf-pages/year3/mfp.md %})
+
 ![Chest of work](./chest.png)
