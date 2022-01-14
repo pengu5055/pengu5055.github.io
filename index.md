@@ -33,4 +33,14 @@ Tu objavljam zbirko zapiskov, ki sem jih naredil tekom študija fizke na Fakulte
 * [Fizikalni praktikum V]({%link fmf-pages/year3/fp5.md %})
 * [Matematično-fizikalni praktikum]({%link fmf-pages/year3/mfp.md %})
 
+
+## Contact me:
+Za vprašanja, težave, probleme ali pa samo za rečt "Howdy!" me verjetno lahko staknete na:
+* [Messenger/Facebook](https://www.facebook.com/marko.urbanc.9/)
+* Discord: pengu5055#5678
+* [urbancmarko1@gmail.com](mailto: urbancmarko1@gmail.com)
+
+### Site changelog:
+* [Changelog/Updates](https://github.com/pengu5055/pengu5055.github.io/commits/main)
+
 ![Chest of work](./chest.png)
