@@ -2,7 +2,7 @@
 title: Matematika III
 ---
 # Matematika III pri Oliverju Dragičeviću
-Slednje zapiske sem naredil za pisni teoretični izpit pri Matematiki III. **Glej skice in grafe v zvezku/zapiskih od Dragičevića, ko je bilo po zoomu!** Kdaj pa kdaj so važne, ampak manj kot pri STD/KLM. Najbolj to, da si predstavljaš kako kaka območja zgledajo ipd. Vrstni red dokumentov sem žal malce pozabil hihi
+Slednje zapiske sem naredil za pisni teoretični izpit pri Matematiki III. Ko sem pisal te zapiske za predmet ni bilo na voljo aktualne skripte. **Glej skice in grafe v zvezku/zapiskih od Dragičevića, ko je bilo po zoomu!** Kdaj pa kdaj so važne, ampak manj kot pri STD/KLM. Najbolj to, da si predstavljaš kako kaka območja zgledajo ipd. Vrstni red dokumentov sem žal malce pozabil hihi
 
 * [Integrali s parametrom]({% link fmf-pdf/year2/MAT3_Integrali_s_Parametrom_rev1.pdf %})
 * [Riemannov integral v R^n]({% link fmf-pdf/year2/MAT3_RiemannIntegral_v_Rn_main.pdf %})
