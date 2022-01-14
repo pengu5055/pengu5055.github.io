@@ -1,8 +1,7 @@
 ---
-title: Kemija I
+title: Fizikalni praktikum I
 ---
-# Kemija I na FKKT pri Urški Lavrenčič Štangar
-Objavljam zbirko zapiskov, ki so nastali ob učenju za kolokvija pri Kemiji I. Čeprav se predavatelji menjajo je snov verjetno enaka :)
+# Fizikalni praktikum I
+Za Fizikalni praktikum I žal nimam urejenega arhiva poročil, lahko pa delim nekatere svoje meritve, excel tabele, LoggerPro grafe (tu sem dejansko še z njim risal grafe).
 
-* [Prvi kolokvij]({% link fmf-pdf/year1/KEM1_Kolokvij1_main.pdf %})
-* [Drugi kolokvij]({% link fmf-pdf/year1/KEM1_Kolokvij2_add1.pdf %})
+* [**Fizikalni praktikum 1 viri**](https://github.com/pengu5055/FizPrakI)
