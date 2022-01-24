@@ -6,4 +6,4 @@ Ker se ne želim dotikati zvezkov, ki so bili na faksu, sem jih spremenil v digi
 
 * [RAW zvezek predavanj]({% link fmf-pdf/year3/TA_pred.pdf %})
 * [RAW zvezek vaj]({% link fmf-pdf/year3/TA_vaje.pdf %})
-* [1. domača naloga: Lane-Emdenova enačba]({% link fmf-pdf/year3/MarkoUrnanč_DN1.pdf %})
+* [1. domača naloga: Lane-Emdenova enačba]({% link fmf-pdf/year3/MarkoUrbanč_DN1.pdf %})
