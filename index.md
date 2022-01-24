@@ -30,6 +30,7 @@ Tu objavljam zbirko zapiskov, ki sem jih naredil tekom študija fizke na Fakulte
 * [Fizikalni praktikum IV]({% link fmf-pages/year2/fp4.md %})
 
 ## 3. Letnik
+* [Teoretična astrofizika]({%link fmf-pages/year3/ta.md %})
 * [Fizikalni praktikum V]({%link fmf-pages/year3/fp5.md %})
 * [Matematično-fizikalni praktikum]({%link fmf-pages/year3/mfp.md %})
 
