@@ -31,6 +31,8 @@ Tu objavljam zbirko zapiskov, ki sem jih naredil tekom študija fizke na Fakulte
 
 ## 3. Letnik
 * [Teoretična astrofizika]({%link fmf-pages/year3/ta.md %})
+* [Kvantna mehanika]({%link fmf-pages/year3/qm.md %})
+* [Elektromagnetno polje]({%link fmf-pages/year3/emp.md %})
 * [Fizikalni praktikum V]({%link fmf-pages/year3/fp5.md %})
 * [Matematično-fizikalni praktikum]({%link fmf-pages/year3/mfp.md %})
 
