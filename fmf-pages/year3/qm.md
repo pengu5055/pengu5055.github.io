@@ -4,8 +4,8 @@ title: Kvantna mehanika
 # Kvantna mehanika pri Antonu Ramšaku
 Zapiski so narejeni po zvezku predavanj in profesorjevi knjigi. V kolikor vem zajemajo vse kar je potrebno znati za ustni izpit. Kakšne slike se mogoče splača pogledati kje sicer.
 
-* [Kvantna Mehanika 1. del]({% link fmf-pdf/year3/QM_ustni1_main.pdf %})
-* [Kvantna Mehanika 2. del]({% link fmf-pdf/year3/QM_ustni2_main.pdf %})
+* [Kvantna Mehanika 1. del]({% link fmf-pdf/year3/QM_ustni1_rev1.pdf %})
+* [Kvantna Mehanika 2. del]({% link fmf-pdf/year3/QM_ustni2_rev1.pdf %})
 
 ### Direktni zapiski s predavanj
 Ker se ne želim dotikati zvezkov, ki so bili na faksu, sem jih spremenil v digitalne kopije. Te so sicer RAW in ne natančno obdelane. Ni nujno, da so popolni in pri nekaj straneh, se jasno vidi, da sem bil na pomirjevalih in torej žal ne ravno priseben.
