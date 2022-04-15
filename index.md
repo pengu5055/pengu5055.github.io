@@ -5,8 +5,9 @@ favicon: ./favicon.ico
 # Marko's Chest: Zapiski in DIY učbeniki/skripte + še kaj
 Tu objavljam zbirko zapiskov, ki sem jih naredil tekom študija fizke na Fakulteti za matematiko in fiziko. Žal so pisani v Wordu in ne v LaTeX, ki je res vrhunec estetike. Nekoliko sem še vseeno hitrejši v Wordu. Upam, da se to spremeni in izboljšam učinkovitost v LaTeXu. Obstajajo možnosti kakšnih tiskarskih napak ipd. Lahko me o tem tudi obvestite in morebitno izdam kakšen popravek!
 
-**_lATEST UPDATE:_** Added FJOD and FM for year 3!
 ---
+**_lATEST UPDATE:_** Added FJOD and FM for year 3!
+
 
 ## 1. Letnik
 * [Astronomska opazovanja]({%link fmf-pages/year1/aop.md %})
