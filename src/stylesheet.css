@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Alagard';
+    src: url('Alagard.woff2') format('woff2'),
+        url('Alagard.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VCR OSD Mono';
+    src: url('VCROSDMono.woff2') format('woff2'),
+        url('VCROSDMono.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pixellari';
+    src: url('Pixellari.woff2') format('woff2'),
+        url('Pixellari.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+body {
+  background: url('bg1.png') no-repeat center center fixed;
+  background-position: 0% 10%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
