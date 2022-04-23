@@ -6,7 +6,12 @@ favicon: ./favicon.ico
 Tu objavljam zbirko zapiskov, ki sem jih naredil tekom študija fizke na Fakulteti za matematiko in fiziko. Žal so pisani v Wordu in ne v LaTeX, ki je res vrhunec estetike. Nekoliko sem še vseeno hitrejši v Wordu. Upam, da se to spremeni in izboljšam učinkovitost v LaTeXu. Obstajajo možnosti kakšnih tiskarskih napak ipd. Lahko me o tem tudi obvestite in morebitno izdam kakšen popravek!
 
 ---
-**_LATEST UPDATE:_** Added FJOD and FM for year 3!
+**_LATEST UPDATE:_** Finančni načrt mafijskega piknika 2022!
+
+<span style="color:darkred">
+Žal tu ni mesto za celotno debato okoli letošnjih motnih dogajan med ŠS FMF in ŠO Mafija. Vseeno javno objavljam finančni načrt za mafijski piknik 2022, ki so ga člani želeli skriti. Razlogi za njihovo skrivanje informacij, ki bi morale biti javnega značaja, so neznani. Zahtevam transparenco pri vseh poslih ŠS in ŠO.
+[**Finančni načrt mafijskega piknika 2022**]({%link fmf-pdf/FN_mafip2022.pdf%})
+</span>
 
 
 ## 1. Letnik
