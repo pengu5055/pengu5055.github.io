@@ -8,10 +8,11 @@ Tu objavljam zbirko zapiskov, ki sem jih naredil tekom študija fizke na Fakulte
 ---
 **_LATEST UPDATE:_** Finančni načrt mafijskega piknika 2022!
 
-<span style="color:darkred">
+<span style="color:#FF6961">
 Žal tu ni mesto za celotno debato okoli letošnjih motnih dogajan med ŠS FMF in ŠO Mafija. Vseeno javno objavljam finančni načrt za mafijski piknik 2022, ki so ga člani želeli skriti. Razlogi za njihovo skrivanje informacij, ki bi morale biti javnega značaja, so neznani. Zahtevam transparenco pri vseh poslih ŠS in ŠO.
-[**Finančni načrt mafijskega piknika 2022**]({%link fmf-pdf/FN_mafip2022.pdf%})
 </span>
+<a href="fmf-pdf/FNmafip2022.pdf" style="color:#C70039; display: block; text-align: center">Finančni načrt mafijskega piknika 2022</a>
+
 
 
 ## 1. Letnik
