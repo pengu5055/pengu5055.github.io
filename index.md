@@ -11,7 +11,7 @@ Tu objavljam zbirko zapiskov, ki sem jih naredil tekom študija fizke na Fakulte
 <span style="color:#c29fd1">
 Dolgo se mi je pletla ideja, kaj se zgodi če v Minecraft spustiš en kup fizikov in matematikov. Utopično pričakovanje je, da se formirajo mesta in razvije kultura. Kaj bo pa res, pa noben ne ve..
 </span>
-<a href="pengu5055.github.io/mc.html" style="color:#2cc781; display: block; text-align: center; font-weight: bold; text-decoration: underline">Minecraft server informacije in vse!</a>
+<a href="https://pengu5055.github.io/mc.html" style="color:#2cc781; display: block; text-align: center; font-weight: bold; text-decoration: underline">Minecraft server informacije in vse!</a>
 
 
 
