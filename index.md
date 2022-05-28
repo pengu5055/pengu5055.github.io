@@ -6,12 +6,12 @@ favicon: ./favicon.ico
 Tu objavljam zbirko zapiskov, ki sem jih naredil tekom študija fizke na Fakulteti za matematiko in fiziko. Žal so pisani v Wordu in ne v LaTeX, ki je res vrhunec estetike. Nekoliko sem še vseeno hitrejši v Wordu. Upam, da se to spremeni in izboljšam učinkovitost v LaTeXu. Obstajajo možnosti kakšnih tiskarskih napak ipd. Lahko me o tem tudi obvestite in morebitno izdam kakšen popravek!
 
 ---
-**_LATEST UPDATE:_** Finančni načrt mafijskega piknika 2022!
+**_LATEST UPDATE:_** Prva iteracija Minecraft strežnika!
 
-<span style="color:#FF6961">
-Žal tu ni mesto za celotno debato okoli letošnjih motnih dogajan med ŠS FMF in ŠO Mafija. Vseeno javno objavljam finančni načrt za mafijski piknik 2022, ki so ga člani želeli skriti. Razlogi za njihovo skrivanje informacij, ki bi morale biti javnega značaja, so neznani. Zahtevam transparenco pri vseh poslih ŠS in ŠO.
+<span style="color:#c29fd1">
+Dolgo se mi je pletla ideja, kaj se zgodi če v Minecraft spustiš en kup fizikov in matematikov. Utopično pričakovanje je, da se formirajo mesta in razvije kultura. Kaj bo pa res, pa noben ne ve..
 </span>
-<a href="fmf-pdf/FN_mafip2022.pdf" style="color:#C70039; display: block; text-align: center; font-weight: bold; text-decoration: underline">Finančni načrt mafijskega piknika 2022</a>
+<a href="pengu5055.github.io/mc.html" style="color:#2cc781; display: block; text-align: center; font-weight: bold; text-decoration: underline">Minecraft server informacije in vse!</a>
 
 
 
