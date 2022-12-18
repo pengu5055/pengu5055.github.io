@@ -6,12 +6,13 @@ favicon: ./favicon.ico
 Tu objavljam zbirko zapiskov, ki sem jih naredil tekom študija fizke na Fakulteti za matematiko in fiziko. Žal so pisani v Wordu in ne v LaTeX, ki je res vrhunec estetike. Nekoliko sem še vseeno hitrejši v Wordu. Upam, da se to spremeni in izboljšam učinkovitost v LaTeXu. Obstajajo možnosti kakšnih tiskarskih napak ipd. Lahko me o tem tudi obvestite in morebitno izdam kakšen popravek!
 
 ---
-**_LATEST UPDATE:_** Prva iteracija Minecraft strežnika!
+**_LATEST UPDATE:_** Dodan repozitorij kode za Teoretično Astrofiziko!
 
-<span style="color:#c29fd1">
-Dolgo se mi je pletla ideja, kaj se zgodi če v Minecraft spustiš en kup fizikov in matematikov. Utopično pričakovanje je, da se formirajo mesta in razvije kultura. Kaj bo pa res, pa noben ne ve..
+<span style="color:#c29fd1; display: block; text-align: center">
+Minecraft server je trenutno neaktiven, ampak je lahko takoj back ob interesu igralcev :))
 </span>
-<a href="https://pengu5055.github.io/mc.html" style="color:#2cc781; display: block; text-align: center; font-weight: bold; text-decoration: underline">Minecraft server informacije in vse!</a>
+<!--<a href="https://pengu5055.github.io/rust.html" style="color:#2cc781; display: block; text-align: center; font-weight: bold; text-decoration: underline">Rya@FMF Rust Server!</a> -->
+<a href="https://pengu5055.github.io/mc.html" style="color:#2cc781; display: block; text-align: center; font-weight: bold; text-decoration: underline">Minecraft</a>
 
 
 
@@ -52,7 +53,7 @@ Dolgo se mi je pletla ideja, kaj se zgodi če v Minecraft spustiš en kup fiziko
 Za vprašanja, težave, probleme ali pa samo za rečt "Howdy!" me verjetno lahko staknete na:
 * [Messenger/Facebook](https://www.facebook.com/marko.urbanc.9/)
 * Discord: pengu5055#5678
-* [urbancmarko1@gmail.com](mailto: urbancmarko1@gmail.com)
+* [urbancmarko1(at)gmail.com](mailto: urbancmarko1@gmail.com)
 
 ### Site changelog:
 * [Changelog/Updates](https://github.com/pengu5055/pengu5055.github.io/commits/main)
