@@ -17,8 +17,8 @@ Novo narejeni zapiski, fresh off the press in tokrat celo ne v wordu ;)
 * [Kvazistatična polja]({% link fmf-pdf/year3/EMP_kvazistaticnapolja_main.pdf %})
 * [Maxwellove enačbe]({% link fmf-pdf/year3/EMP_maxwell_main.pdf %})
 * [Elektromagnetno polje v snovi]({% link fmf-pdf/year3/EMP_vsnovi_main.pdf %})
-* [Hamiltonske metode]({% link fmf-pdf/year3/EMP_hamilton_wip.pdf %})
-* [Splošna teorija relativnosti]({% link fmf-pdf/year3/EMP_relativnost_wip.pdf %})
+* [Hamiltonske metode]({% link fmf-pdf/year3/EMP_hamilton_main.pdf %})
+* [Splošna teorija relativnosti]({% link fmf-pdf/year3/EMP_relativnost_main.pdf %})
 
 ## Vaje pri Martinu Klanjšku
 Martin Klanjšek je S tier asistent in je res super. Nekaj vaj manjka, ker sem bil v manjši skupini in torej velikokrat pred tablo. Če je res kriza lahko poskusim stakniti slike table, če me zato kontaktirate.
