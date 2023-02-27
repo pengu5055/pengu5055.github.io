@@ -47,6 +47,7 @@ Minecraft server je trenutno neaktiven, ampak je lahko takoj back ob interesu ig
 * [Fizika jedra in osnovnih delcev]({%link fmf-pages/year3/fjod.md %})
 * [Fizikalni praktikum V]({%link fmf-pages/year3/fp5.md %})
 * [Matematično-fizikalni praktikum]({%link fmf-pages/year3/mfp.md %})
+* [Opazovalna astrofizika]({%link fmf-pages/year3/oa.md %})
 * [Posredovanje fizike]({%link fmf-pages/year3/pf.md %})
 
 ## Contact me:
