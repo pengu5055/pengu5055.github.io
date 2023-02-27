@@ -8,6 +8,6 @@ Janezu sem dolžen še zadnjo nalogo in zaključni projekt (sorry Janez :( ) tak
 * [2. DN: Delo z javno dostopnimi podatki]({% link fmf-pdf/year3/OA_DN2_MarkoUrbanc_rev1.pdf %})
 * [3. DN: Fotometrija in HR diagram]({% link fmf-pdf/year3/OA_DN3_MarkoUrbanc.pdf %})
 * [4. DN: Spektroskopija]({% link fmf-pdf/year3/OA_DN4_MarkoUrbanc.pdf %})
-* [5. DN: Spektralne črte]({% link fmf-pdf/year3/OA_DN5_MarkoUrbanc_WIP.pdf %})
+* [5. DN: Spektralne črte]({% link fmf-pdf/year3/OA_DN5_MarkoUrbanč_WIP.pdf %})
 * ...
 * [Repozitorij kode za domače naloge](https://github.com/pengu5055/ObservationalAstrophysics)
