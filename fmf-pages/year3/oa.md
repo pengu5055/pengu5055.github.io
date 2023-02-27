@@ -1,5 +1,5 @@
 ---
-title:Opazovalna astrofizika
+title: Opazovalna astrofizika
 ---
 # Opazovalna astrofizika pri Janezu Kosu
 Janezu sem dolžen še zadnjo nalogo in zaključni projekt (sorry Janez :( ) tako da ta page še ni končan. Koda v repozitoriju je dokaj neurejena, ampak upam, da se boste lahko znajdli iz nje. Načeloma je nomenklatura za glavni script `main_dn?.py` ali nekaj podobnega. Če je kaj nejasnega ali pa imate kakšna vprašanja si pa z veseljem kej pišemo.
