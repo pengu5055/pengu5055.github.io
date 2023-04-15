@@ -6,7 +6,7 @@ favicon: ./favicon.ico
 Tu objavljam zbirko zapiskov, ki sem jih naredil tekom študija fizke na Fakulteti za matematiko in fiziko. Žal so pisani v Wordu in ne v LaTeX, ki je res vrhunec estetike. Nekoliko sem še vseeno hitrejši v Wordu. Upam, da se to spremeni in izboljšam učinkovitost v LaTeXu. Obstajajo možnosti kakšnih tiskarskih napak ipd. Lahko me o tem tudi obvestite in morebitno izdam kakšen popravek!
 
 ---
-**_LATEST UPDATE:_** Now new zapiski iz EMP in tokrat celo ne v Wordu! So extra squeaky clean.
+**_LATEST UPDATE:_** Scan-i zapiskov z vaj in predavanj Mehanike Kontinuov za 1. kolokvij
 
 <span style="color:#c29fd1; display: block; text-align: center">
 Minecraft server je trenutno neaktiven, ampak je lahko takoj back ob interesu igralcev :))
@@ -47,6 +47,7 @@ Minecraft server je trenutno neaktiven, ampak je lahko takoj back ob interesu ig
 * [Fizika jedra in osnovnih delcev]({%link fmf-pages/year3/fjod.md %})
 * [Fizikalni praktikum V]({%link fmf-pages/year3/fp5.md %})
 * [Matematično-fizikalni praktikum]({%link fmf-pages/year3/mfp.md %})
+* [Mehanika Kontinuov]({%link fmf-pages/year3/mk.md %})
 * [Opazovalna astrofizika]({%link fmf-pages/year3/oa.md %})
 * [Posredovanje fizike]({%link fmf-pages/year3/pf.md %})
 
