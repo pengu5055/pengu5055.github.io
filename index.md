@@ -6,7 +6,7 @@ favicon: ./favicon.ico
 Tu objavljam zbirko zapiskov, ki sem jih naredil tekom študija fizke na Fakulteti za matematiko in fiziko. Žal so pisani v Wordu in ne v LaTeX, ki je res vrhunec estetike. Nekoliko sem še vseeno hitrejši v Wordu. Upam, da se to spremeni in izboljšam učinkovitost v LaTeXu. Obstajajo možnosti kakšnih tiskarskih napak ipd. Lahko me o tem tudi obvestite in morebitno izdam kakšen popravek!
 
 ---
-**_LATEST UPDATE:_** Scan-i zapiskov z vaj in predavanj Mehanike Kontinuov za 1. kolokvij
+**_LATEST UPDATE:_** Scan-i zapiskov z vaj in predavanj Mehanike Kontinuov za 2. kolokvij + scan zvezka za Fizikalna Merjenja :))
 
 <span style="color:#c29fd1; display: block; text-align: center">
 Minecraft server je trenutno neaktiven, ampak je lahko takoj back ob interesu igralcev :))
@@ -54,7 +54,7 @@ Minecraft server je trenutno neaktiven, ampak je lahko takoj back ob interesu ig
 ## Contact me:
 Za vprašanja, težave, probleme ali pa samo za rečt "Howdy!" me verjetno lahko staknete na:
 * [Messenger/Facebook](https://www.facebook.com/marko.urbanc.9/)
-* Discord: pengu5055#5678
+* Discord: pengu5055 (formerly pengu5055#5678)
 * [urbancmarko1(at)gmail.com](mailto: urbancmarko1@gmail.com)
 
 ### Site changelog:
