@@ -8,6 +8,6 @@ title: Mehanika Kontinuov
 ## Zvezki
 * [Elastomehanika 1. del]({% link fmf-pdf/year3/MK_Pred1a.pdf %})
 * [Elastomehanika 2. del]({% link fmf-pdf/year3/MK_Pred1b.pdf %})
-* [Elastomehanika vaje 1. del - ]({% link fmf-pdf/year3/MK_Vaje1.pdf %})
-* [Fluidomehanika 1. del]({% link fmf-pdf/year3/MK_Pred2.pdf %})
-* [Fluidomehanika vaje 1. del - ]({% link fmf-pdf/year3/MK_Vaje2.pdf %})
+* [Elastomehanika vaje (oz. 1. del vaj)]({% link fmf-pdf/year3/MK_Vaje1.pdf %})
+* [Hidrodinamika]({% link fmf-pdf/year3/MK_Pred2.pdf %})
+* [Hidrodinamika vaje (oz. 2. del vaj)]({% link fmf-pdf/year3/MK_Vaje2.pdf %})
