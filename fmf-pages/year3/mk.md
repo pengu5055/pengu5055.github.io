@@ -13,7 +13,8 @@ title: Mehanika Kontinuov
 * [Hidrodinamika vaje (oz. 2. del vaj)]({% link fmf-pdf/year3/MK_Vaje2.pdf %})
 
 ## Zapiski za ustni izpit
-Tole je trajalo kar nekaj časa, da sem spravil skupaj. Trenutno vsebuje še nekaj LaTeX errorjev, ampak jih mislim sproti popraviti, tako da check back soon.
+Tole je trajalo kar nekaj časa, da sem spravil skupaj.<s>Trenutno vsebuje še nekaj LaTeX errorjev, ampak jih mislim sproti popraviti, tako da check back soon.</s> Je popravljeno! Tudi font sem pomanjšal, ker je bil prej absurdno velik, čeprav ima Windows nekaj težav z njim in ga prikaže, kot bolj bold kot je res. Pomaga če zoom-aš.  
+
 Sem precej prepričan, da obsega vse kar smo delali in upam, da je predstavljeno na zabaven, berljiv in razumljiv način.  
 
 * [Elastomehanika (Splošen pregled in Uvod)]({% link fmf-pdf/year3/MK_elastomechanics.pdf %})
