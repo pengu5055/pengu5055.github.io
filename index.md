@@ -6,7 +6,7 @@ favicon: ./favicon.ico
 Tu objavljam zbirko zapiskov, ki sem jih naredil tekom študija fizke na Fakulteti za matematiko in fiziko. Žal so pisani v Wordu in ne v LaTeX, ki je res vrhunec estetike. Nekoliko sem še vseeno hitrejši v Wordu. Upam, da se to spremeni in izboljšam učinkovitost v LaTeXu. Obstajajo možnosti kakšnih tiskarskih napak ipd. Lahko me o tem tudi obvestite in morebitno izdam kakšen popravek!
 
 ---
-**_LATEST UPDATE:_** Scan-i zapiskov z vaj in predavanj Mehanike Kontinuov za 2. kolokvij + scan zvezka za Fizikalna Merjenja :))
+**_LATEST UPDATE:_** Vse potrebno za teoretični ustni izpit pri Mehaniki Kontinumov!
 
 <span style="color:#c29fd1; display: block; text-align: center">
 Minecraft server je trenutno neaktiven, ampak je lahko takoj back ob interesu igralcev :))
