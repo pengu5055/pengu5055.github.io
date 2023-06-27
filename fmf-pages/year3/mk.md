@@ -13,11 +13,13 @@ title: Mehanika Kontinuov
 * [Hidrodinamika vaje (oz. 2. del vaj)]({% link fmf-pdf/year3/MK_Vaje2.pdf %})
 
 ## Zapiski za ustni izpit
-Tole je trajalo kar nekaj časa, da sem spravil skupaj.<s>Trenutno vsebuje še nekaj LaTeX errorjev, ampak jih mislim sproti popraviti, tako da check back soon.</s> Je popravljeno! Tudi font sem pomanjšal, ker je bil prej absurdno velik, čeprav ima Windows nekaj težav z njim in ga prikaže, kot bolj bold kot je res. Pomaga če zoom-aš.  
+Tole je trajalo kar nekaj časa, da sem spravil skupaj.<s>Trenutno vsebuje še nekaj LaTeX errorjev, ampak jih mislim sproti popraviti, tako da check back soon.</s> Je popravljeno!  
+
+<s>Tudi font sem pomanjšal, ker je bil prej absurdno velik, čeprav ima Windows nekaj težav z njim in ga prikaže, kot bolj bold kot je res. Pomaga če zoom-aš. </s> Fixed :)) in dodatno je tudi nekaj typotov izginilo!
 
 Sem precej prepričan, da obsega vse kar smo delali in upam, da je predstavljeno na zabaven, berljiv in razumljiv način.  
 
-* [Elastomehanika (Splošen pregled in Uvod)]({% link fmf-pdf/year3/MK_elastomechanics.pdf %})
+* [Elastomehanika (Splošen pregled in uvod)]({% link fmf-pdf/year3/MK_elastomechanics.pdf %})
 * [Upogib tankih ravnih plošč]({% link fmf-pdf/year3/MK_thin_plates.pdf %})
 * [Tanke palice]({% link fmf-pdf/year3/MK_thin_beams.pdf %})
 * [Elastično valovanje]({% link fmf-pdf/year3/MK_elastic_waves.pdf %})
