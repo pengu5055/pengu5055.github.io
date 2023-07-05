@@ -20,7 +20,9 @@ Verjetno eden od mojih večjih projektov zaradi izredne omejitve na času. Verje
 * [Merjenje frekvence in časa]({% link fmf-pdf/year3/FM_time-frequency.pdf %})
 * [Merjenje majhnih premikov]({% link fmf-pdf/year3/FM_small-distances.pdf %})
 
-Oh eksperimentalno so tokrat od nekje tretine naprej tudi slike. Žal jih je ponekod pri export-u razrezalo na pol, saj je export v resnici mišljen v obliki neskončne spletne strani. I'll look into it..
+Oh eksperimentalno so tokrat od nekje tretine naprej tudi slike. Žal jih je ponekod pri export-u razrezalo na pol, saj je export v resnici mišljen v obliki neskončne spletne strani. I'll look into it..  
+
+Velika zahvala tudi kolegici **Ani Štuhec** brez katere nikakor ne bi bilo možno zaključiti tega projekta zaradi manjkajoče source vsebine.
 ## Zvezki iz predavanj
 
 * [Zvezek predavanj 1. del]({% link fmf-pdf/year3/FM_pred1.pdf %})
