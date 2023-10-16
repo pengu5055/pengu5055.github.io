@@ -1,7 +1,7 @@
 ---
 title: Iščem cimra/cimro!
 ---
-# Ayo! Trenutno iščem cimra/cimro za stanovanje v Ljubljani :blush:
+# Ayo! Trenutno iščem cimra/cimro za stanovanje v Ljubljani 😊
 Zdelo se mi je smiselno, da prvo vprašam, če je kaj interesa na domačem faksu. V splošnem sem imel z fiziki in matematiki zelo pozitivne izkušnje, zato bi bilo super, če bi lahko našel nekoga, ki je tudi študent fizike ali matematike. Ni pa to noben nujen pogoj seveda.
 
 ## The details:

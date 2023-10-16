@@ -23,7 +23,7 @@ Prof. Kerševan rad reče "Once you have a hammer, everything looks like a nail"
 Ena stvar, ki je bila meni res zanimiva je bila uporaba FFT za izračun avtokorelacijske funkcije v namen procesiranja audio signala oz. njegov "razmaz" v t.i. *ambient texture*. Res je, da je moj okus za glasbo v zadnjih letih propadel, ampak vseeno je ambientalna glasba en lepši del, ki je ostal.
 V repozitoriju je mapa `wavs`, kjer je nekaj posnetkov, ki sem jih naredil. Ena hyperpop pesem, odsek ene moje kitarske skladbe in potem njihove transformacije in kombinacije.
 
-:warning: **WARNING** :warning: : Vsebina lahko zelo niha v glasnosti, torej previdno z ušesi. Vseeno priporočam slušalke, da se sliši vse lepo. Razen za vse posnetke označene z `test*.wav`. Te ti uničijo ušesa.
+⚠️ **WARNING** ⚠️ : Vsebina lahko zelo niha v glasnosti, torej previdno z ušesi. Vseeno priporočam slušalke, da se sliši vse lepo. Razen za vse posnetke označene z `test*.wav`. Te ti uničijo ušesa.
 
 ### 3. Dodatna naloga: Avtokorelacija za nek dodaten signal
 Če delaš dodatne naloge povsod potem zelo pohvalno. Meni jih in real time ni uspelo, tako da jih nisem mogel vedno. Se mi pa zdi vredno poudariti, da je tu osnovna naloga dovolj kratka, da hitro prideš na dodatno nalogo in da se jo splača narediti iz prejšnjih dveh razlogov, ki sta v bistvu ena in ista stvar. Ne vem če imam kakšen drug smiselen napotek tu, ker v osnovi samo kličeš `np.fft.fft` in `np.fft.ifft` oz. kar `np.correlate`.

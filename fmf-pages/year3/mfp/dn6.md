@@ -42,7 +42,7 @@ Prva dva sta legit NASA članka. Lej kako daleč si že prišel! Ponosen sem nat
 
 Vseeno pa priporočam, da si najprej sam poskusiš rešiti nalogo. As always za vprašanja sem na voljo.
 
-:warning: **WARNING** :warning: : Za natančnost rezultatov sem dobival za različne metode podobne rezultate, kar se mi zdi nenavadno. Gotovo je kje napaka, ampak je nisem uspel najti. Mogoče jo lahko ti.
+⚠️ **WARNING** ⚠️ : Za natančnost rezultatov sem dobival za različne metode podobne rezultate, kar se mi zdi nenavadno. Gotovo je kje napaka, ampak je nisem uspel najti. Mogoče jo lahko ti.
 
 
 * [**Poročilo DN6**]({% link fmf-pdf/year3/mfp/Marko_Urbanč_06.pdf %})

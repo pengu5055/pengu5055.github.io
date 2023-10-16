@@ -3,7 +3,7 @@ title: MFP DN9
 ---
 # DN 9. Spektralne metode za začetne probleme PDE (Difuzija toplote)
 
-<p style="color:#f54c4c; font-size: 28px"> :warning: :construction: This page is under construction! :construction: :warning: </h1> 
+<p style="color:#f54c4c; font-size: 28px"> ⚠️ 🚧 This page is under construction! 🚧 ⚠️ </h1> 
 
 
 ## Navodila
@@ -13,7 +13,7 @@ title: MFP DN9
 ## Kar sem jaz naredil
 **Tu je verjetno tisto kar te najbolj zanima**. 
 
-<p style="color:#f54c4c; font-size: 28px"> :warning: :construction: These link to nowhere! :construction: :warning: </h1> 
+<p style="color:#f54c4c; font-size: 28px"> ⚠️ 🚧 These link to nowhere! 🚧 ⚠️ </h1> 
 
 <details>
   <summary>Standard Disclaimer</summary>
