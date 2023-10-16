@@ -6,13 +6,13 @@ favicon: ./favicon.ico
 Tu objavljam zbirko zapiskov, ki sem jih naredil tekom študija fizke na Fakulteti za matematiko in fiziko. Žal so pisani v Wordu in ne v LaTeX, ki je res vrhunec estetike. Nekoliko sem še vseeno hitrejši v Wordu. Upam, da se to spremeni in izboljšam učinkovitost v LaTeXu. Obstajajo možnosti kakšnih tiskarskih napak ipd. Lahko me o tem tudi obvestite in morebitno izdam kakšen popravek!
 
 ---
-**_LATEST UPDATE:_** Vse kar je potrebno za ustni izpit iz Fizikalnih merjenj!
+<text style="font-size: 18px; font-weight: bold">**<text style="color: #e64970">LATEST UPDATE:</text>** Objavljen prvi del repozitorija za **<text style="color: #e64970">mafijski praktikum</text>**!</text>
 
-<span style="color:#c29fd1; display: block; text-align: center">
-Minecraft server je trenutno neaktiven, ampak je lahko takoj back ob interesu igralcev :))
+<span style="color:#b36cf5; display: block; text-align: center; font-size: 22px; font-weight: bold">
+Ayo! Trenutno iščem cimra/cimro za stanovanje v Ljubljani :blush:
 </span>
 <!--<a href="https://pengu5055.github.io/rust.html" style="color:#2cc781; display: block; text-align: center; font-weight: bold; text-decoration: underline">Rya@FMF Rust Server!</a> -->
-<a href="https://pengu5055.github.io/mc.html" style="color:#2cc781; display: block; text-align: center; font-weight: bold; text-decoration: underline">Minecraft</a>
+<a href="https://pengu5055.github.io/home.html" style="color:#ec6ff2; display: block; text-align: center; font-weight: bold; text-decoration: underline">More details here!</a>
 
 
 
