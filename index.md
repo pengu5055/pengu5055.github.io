@@ -6,7 +6,7 @@ favicon: ./favicon.ico
 Tu objavljam zbirko zapiskov, ki sem jih naredil tekom študija fizke na Fakulteti za matematiko in fiziko. Žal so pisani v Wordu in ne v LaTeX, ki je res vrhunec estetike. Nekoliko sem še vseeno hitrejši v Wordu. Upam, da se to spremeni in izboljšam učinkovitost v LaTeXu. Obstajajo možnosti kakšnih tiskarskih napak ipd. Lahko me o tem tudi obvestite in morebitno izdam kakšen popravek!
 
 ---
-<text style="font-size: 18px; font-weight: bold"><text style="color: #e64970">LATEST UPDATE:</text> Objavljen prvi del repozitorija za <text style="color: #e64970">mafijski praktikum</text>!</text>
+<text style="font-size: 18px; font-weight: bold"><text style="color: #e64970">LATEST UPDATE:</text> Zametki  <text style="color: #e64970">Python course</text>-a!</text>
 
 <span style="color:#b36cf5; display: block; text-align: center; font-size: 22px; font-weight: bold">
 Ayo! Trenutno iščem cimra/cimro za stanovanje v Ljubljani 😊
@@ -51,6 +51,9 @@ Ayo! Trenutno iščem cimra/cimro za stanovanje v Ljubljani 😊
 * [Mehanika Kontinuov]({%link fmf-pages/year3/mk.md %})
 * [Opazovalna astrofizika]({%link fmf-pages/year3/oa.md %})
 * [Posredovanje fizike]({%link fmf-pages/year3/pf.md %})
+
+## Extra Content
+* [Osnove programiranja v Pythonu]({% link fmf-pages/extra/python/python.md %})
 
 ## Contact me:
 Za vprašanja, težave, probleme ali pa samo za rečt "Howdy!" me verjetno lahko staknete na:
