@@ -9,8 +9,9 @@ Tale "DIY Course" je ena ideja, ki sem jo želel že en lep čas izpeljati, ker 
 ## Course
 
 <p style="color:#f54c4c; font-size: 28px"> ⚠️ 🚧 This part is under construction! 🚧 ⚠️ </p> 
-* [0a. Namestitev Pythona in nekega editorja]()    
-* [0b. Virtualna okolja in splošno dobra praksa]()  
+* [0a. Namestitev Pythona in nekega editorja](#)    
+* [0b. Virtualna okolja in splošno dobra praksa](#)  
+* [1. Spremenljivke, podatkovni tipi in osnovni operatorji](#)
 * ...
 
 ## Vaje
