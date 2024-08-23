@@ -22,10 +22,10 @@ naberejo v kombinaciji z obveznostmi za druge predmete.
 * [**DN 6. Enačbe hoda (Prevajanje toplote)**]({% link fmf-pages/year3/mfp/dn6.md %})
 * [**DN 7. Newtonov zakon (Simplektični integratorji)**]({% link fmf-pages/year3/mfp/dn7.md %})
 * [**DN 8. Robni problem lastnih vrednosti (Delec v končnem in neskončnem potencialu)**]({% link fmf-pages/year3/mfp/dn8.md %})
-* [**WIP DN 9. Spektralne metode za začetne probleme PDE (Difuzija toplote)**]({% link fmf-pages/year3/mfp/dn9.md %})
-* [**WIP DN 10. Diferenčne metode za parcialne diferencialne enačbe (Razvoj kvantnih stanj)**]({% link fmf-pages/year3/mfp/dn10.md %})
-* [**WIP DN 11. Reševanje PDE z metodo Galerkina (Reševanje Poissonove enačbe)**]({% link fmf-pages/year3/mfp/dn11.md %})
-* [**WIP DN 12. Strojno učenje (Iskanje Higgsovega bozona)**]({% link fmf-pages/year3/mfp/dn12.md %})
+* [**DN 9. Spektralne metode za začetne probleme PDE (Difuzija toplote)**]({% link fmf-pages/year3/mfp/dn9.md %})
+* [**DN 10. Diferenčne metode za parcialne diferencialne enačbe (Razvoj kvantnih stanj)**]({% link fmf-pages/year3/mfp/dn10.md %})
+* [**DN 11. Reševanje PDE z metodo Galerkina (Reševanje Poissonove enačbe)**]({% link fmf-pages/year3/mfp/dn11.md %})
+* [**DN 12. Strojno učenje (Iskanje Higgsovega bozona)**]({% link fmf-pages/year3/mfp/dn12.md %})
 
 ## Splošni napotki in priporočila
 Kar se spomnim, da bi še lahko bilo koristno, bom objavil najverjetneje tukaj.
