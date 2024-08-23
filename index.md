@@ -5,14 +5,16 @@ favicon: ./favicon.ico
 # Marko's Chest: Zapiski in DIY učbeniki/skripte + še kaj
 Tu objavljam zbirko zapiskov, ki sem jih naredil tekom študija fizke na Fakulteti za matematiko in fiziko. Žal so pisani v Wordu in ne v LaTeX, ki je res vrhunec estetike. Nekoliko sem še vseeno hitrejši v Wordu. Upam, da se to spremeni in izboljšam učinkovitost v LaTeXu. Obstajajo možnosti kakšnih tiskarskih napak ipd. Lahko me o tem tudi obvestite in morebitno izdam kakšen popravek!
 
----
-<text style="font-size: 18px; font-weight: bold"><text style="color: #e64970">LATEST UPDATE:</text> Zametki  <text style="color: #e64970">Python course</text>-a!</text>
+Zaradi obsega spletne strani nekatere novejše povezave vodijo na pomožne repozitorije, kjer so spravljene datoteke. On ustvarjanju te strani je Github Pages potreboval okoli minuto, da se je stran posodobila. Zdaj ta čas leze proti 20 minutam. Zato odmikam vsebine na druge repozitorije, da se stran hitreje posodablja.
 
-<span style="color:#b36cf5; display: block; text-align: center; font-size: 22px; font-weight: bold">
-Ayo! Trenutno iščem cimra/cimro za stanovanje v Ljubljani 😊
-</span>
+---
+<text style="font-size: 18px; font-weight: bold"><text style="color: #e64970">LATEST UPDATE:</text> Dopolnitev <text style="color: #e64970">Opazovalne Astrofizike + Mafijski Praktikum</text></text>
+
+<!-- <span style="color:#b36cf5; display: block; text-align: center; font-size: 22px; font-weight: bold"> -->
+<!-- Ayo! Trenutno iščem cimra/cimro za stanovanje v Ljubljani 😊 -->
+<!-- </span> -->
 <!--<a href="https://pengu5055.github.io/rust.html" style="color:#2cc781; display: block; text-align: center; font-weight: bold; text-decoration: underline">Rya@FMF Rust Server!</a> -->
-<a href="https://pengu5055.github.io/home.html" style="color:#ec6ff2; display: block; text-align: center; font-weight: bold; text-decoration: underline">More details here!</a>
+<!-- <a href="https://pengu5055.github.io/home.html" style="color:#ec6ff2; display: block; text-align: center; font-weight: bold; text-decoration: underline">More details here!</a> -->
 
 
 
@@ -54,6 +56,21 @@ Ayo! Trenutno iščem cimra/cimro za stanovanje v Ljubljani 😊
 
 ## Extra Content
 * [Osnove programiranja v Pythonu]({% link fmf-pages/extra/python/python.md %})
+
+## Več strani z zapiski
+Pripenjam še nekaj povezav na druge strani, kjer so kolegi objavili svoje delo in zapiske. Nekateri so izjemno impresivni in vredni ogleda. Več izkušenj, več znanja or something like that. Izredno sem navdušen nad tem, da imamo toliko gradiva na voljo! :))
+
+* [Mašini *aesthetically pleasing* zapiski](https://masakotnik.github.io/)
+* [Elijan Mastnjak Notes](https://ejmastnak.com/notes/fmf/fmf/)
+* [Simonovi fizikalni zapiski](https://orientacijaskozifiziko.splet.arnes.si/)
+* [Matevž Prinčič: Gradivo FMF](https://matevzprincic.splet.arnes.si/)
+* [Miha Pompe: FMF Fizika zapiski](https://github.com/mihapompe/FMF-Fizika-zapiski)
+* [Urban Duh Cheatsheets](https://gitlab.com/uduh/fmf_physics_cheatsheets)
+* [Jure Slak: Listi na kolokvijih](https://github.com/jureslak/listi-na-kolokvijih/)
+* [Krištof Špenko Google Drive](https://drive.google.com/drive/folders/0B3flMWYcE_niTmVVckt4ZlNuakE?resourcekey=0-dOhPvHLevCxCsMbG82EZpQ&usp=sharing)
+
+
+
 
 ## Contact me:
 Za vprašanja, težave, probleme ali pa samo za rečt "Howdy!" me verjetno lahko staknete na:

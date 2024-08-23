@@ -14,5 +14,5 @@ Pri Fizikalnem praktikumu II se je začel prvi val korona virusa. To pomeni, da 
 * [Sila na vodnik v magnetnem polju]({%link fmf-pdf/year1/SilaNaVodnikVMagPolju44.pdf %})
 * [Tuljava v magnetnem polju]({%link fmf-pdf/year1/TuljavaVMagnetnemPolju45.pdf %})
 * [Vsiljeno nihanje el. nihajnega kroga]({%link fmf-pdf/year1/VsiljenoNihanjeElekticniKrog43.pdf %})
-* [Wehatsonov most]({%link fmf-pdf/year1/WheatstonovMost40.pdf %})
+* [Wheatsonov most]({%link fmf-pdf/year1/WheatstonovMost40.pdf %})
 * [**Fizikalni praktikum II viri**](https://github.com/pengu5055/FizPrakII)
