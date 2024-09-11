@@ -2,7 +2,7 @@
 title: Happy (the) Cat
 ---
 # Happy (the) Cat
-As requested sem dodal stran za mojo mucko Happy. Bila je ulična muca, ki so jo pripeljali skoraj na smrt sestradano v zavetišče, dejansko na datum mojega rojstnega dneva. K sreči je uspela ozdraveti in je z mano zdaj kakšno leto. Kljub njeni trdi preteklosti je zelo ljubeča in igriva muca. Rada se crklja in je zelo prijazna tudi do tujcev.
+As requested sem dodal stran za mojo mucko Happy. Bila je ulična muca, ki so jo pripeljali skoraj na smrt sestradano v zavetišče, dejansko na datum mojega rojstnega dneva. K sreči je uspela ozdraveti in je z mano zdaj kakšno leto. Kljub njeni težki preteklosti je zelo ljubeča in igriva. Rada se crklja in je zelo prijazna tudi do tujcev.
 
 ![Happy]({% link happy/happy_cat.jpg %})
 ![Tranquil Happy]({% link happy/tranquil_happy.jpg %})
