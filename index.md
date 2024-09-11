@@ -8,7 +8,7 @@ Tu objavljam zbirko zapiskov, ki sem jih naredil tekom študija fizke na Fakulte
 Zaradi obsega spletne strani nekatere novejše povezave vodijo na pomožne repozitorije, kjer so spravljene datoteke. On ustvarjanju te strani je Github Pages potreboval okoli minuto, da se je stran posodobila. Zdaj ta čas leze proti 20 minutam. Zato odmikam vsebine na druge repozitorije, da se stran hitreje posodablja.
 
 ---
-<text style="font-size: 18px; font-weight: bold"><text style="color: #e64970">LATEST UPDATE:</text> Dopolnitev <text style="color: #e64970">Opazovalne Astrofizike + Mafijski Praktikum</text></text>
+<text style="font-size: 18px; font-weight: bold"><text style="color: #e64970">LATEST UPDATE:</text> Happy the Cat is back!</text>
 
 <!-- <span style="color:#b36cf5; display: block; text-align: center; font-size: 22px; font-weight: bold"> -->
 <!-- Ayo! Trenutno iščem cimra/cimro za stanovanje v Ljubljani 😊 -->
@@ -55,6 +55,7 @@ Zaradi obsega spletne strani nekatere novejše povezave vodijo na pomožne repoz
 * [Posredovanje fizike]({%link fmf-pages/year3/pf.md %})
 
 ## Extra Content
+* [Happy (the) Cat]({% link happy/happy.md %})
 * [Osnove programiranja v Pythonu]({% link fmf-pages/extra/python/python.md %})
 
 ## Več strani z zapiski
