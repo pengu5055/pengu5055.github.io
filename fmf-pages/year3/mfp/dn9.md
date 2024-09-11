@@ -6,7 +6,7 @@ title: MFP DN9
 Naslednje tri naloge se ukvarjajo z različnimi metodami za reševanje parcialnih diferencialnih enačb, katere si lahko na nek način predstavljamo kot posplošitev diferencialnih enačb. Dopuščamo odvisnost od več parametrov. PDE so zelo pogoste v fiziki (pravzaprav, verjetno bolj pogoste kot ODE). Pojavijo se kadarkoli opisujemo količino, ki ima tako časovnno kot prostorsko odvisnost for example. Recimo primer Poissonove enačbe se pojavlja povsod (EMP, Gravitacija, Fluidomehanika, etc.).
 
 ## Navodila
-Naloga želi, da rešiš enodimenzionalno difuzijo topote z začetni pogoj Gaussovsko porazdeljene temperature. To moraš narediti z Fourierovo metodo za periodični robni pogoj $T(0,\>t) = T(a,\>t)$, kjer je $a$ širina intervala na katerem rešujemo, in za homogen Dirichletov robni pogoj $T(0,\>t) = T(a,\>t) = 0$. Potem je potrebno rešiti nalogo še z Kolokacijsko metodo za homogen Dirichletov robni pogoj.
+Naloga želi, da rešiš enodimenzionalno difuzijo topote z začetni pogoj Gaussovsko porazdeljene temperature. To moraš narediti z Fourierovo metodo za periodični robni pogoj $T(0,t) = T(a,t)$, kjer je $a$ širina intervala na katerem rešujemo, in za homogen Dirichletov robni pogoj $T(0,t) = T(a,t) = 0$. Potem je potrebno rešiti nalogo še z Kolokacijsko metodo za homogen Dirichletov robni pogoj.
 
 ## Napotki
 Priznam, da je kar nekaj časa minilo med tem ko sem oddal to nalogo in sedaj, ko jo končno objavljam. Zato se žal ne spomnim več vseh detajlov. Ko sem pisal to nalogo sem še vedno imel kar velik fokus na optimizirano kodo in možnost paralelnega izvajanja. Mogoče še najbolj smiseln napotek je, da se splača uporabiti tudi že obstoječe knjižnice za reševanje PDE. Recimo primer za reševanje z spektralnimi metodami je `dedalus-project`,
