@@ -2,9 +2,6 @@
 title: Model Analysis 1
 ---
 # Model Analysis 1 with Simon Širca and Miha Mihovilovič
-This page is a **Work in Progress**. I have yet to finish this subject! However I have submitted reports
-which you can find below along with their respective code.
-
 Model Analysis is the bigger brother to Mathematical Physics Practicum from the bachelor's studies. It is a
 course that is meant to teach us how to model physical systems and analyze them. I went into this course very
 excited only to experience quite a bit of disappointment due to my misguided expectations. I thought this course way very *computation* centric as it is the primary course for the Computational Physics specialization. However, it is more about exploring various physical models, their properties and the methods used to analyze them. This is not a bad thing, however it took my stubborn brain a while to understand that this is not a course about programming but about physics.
@@ -21,7 +18,7 @@ Despite my initial disappointment, I really appreciate the course and I whole-he
 * [**7. Task: Monte Carlo Simulations: Integration, Gamma Ray Birth and Neutron Deflection**](#)
 * [**8. Task: Metropolis-Hastings Algorithm: Molecular Chain and Ising Model**](#)
 * [**9. Task: Stochastic Population Dynamics: Birth-Death Process, Lotka-Volterra and SIR Epidemic Model**](#)
-* [**10. Task: Filtering and Spectral Analysis: Wiener Filter and Image Restoration with Wiener Deconvolut**ion](#)
+* [**10. Task: Filtering and Spectral Analysis: Wiener Filter and Image Restoration with Wiener Deconvolution**](#)
 * [**11. Task: Kalman Filter: Optimal Filtering of GPS Data**](#)
 * [**12. Task: Time Series Analysis with Autoregressive Models: Spectra and Signal Forecasting**](#)
 * [**13. Task: Neural Networks: Classification of the MNIST Dataset**](#)
