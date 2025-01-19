@@ -8,9 +8,7 @@ This is a collection of notes I made while studying physics at the Faculty of Ma
 ---
 <div style="display: flex; justify-content: space-between;">
     <span style="font-size: 18px; font-weight: bold;"><text style="color: #e64970">LATEST UPDATE:</text> Notes for Advanced Particle Detectors Exercises!</span>
-    <span href="{% link en/index.md %}"><a href="{% link index.md %}"><text  style="font-size: 18px; font-weight: bold; color: #abe650; text-align: right;">View in Slovene</a></text></span>
-</div>
-
+    <span href="{% link en/index.md %}"><a href="{% link index.md %}"><text  style="font-size: 18px; font-weight: bold; color: #abe650; text-align: right;">View in Slovene</text></a></span></div>
 
 ## 1. Letnik
 * [Astronomical Observations]({%link fmf-pages/year1/aop.md %})
