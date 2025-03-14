@@ -9,7 +9,7 @@ Zaradi obsega spletne strani nekatere novejše povezave vodijo na pomožne repoz
 
 ---
 <div style="display: flex; justify-content: space-between;">
-    <span style="font-size: 18px; font-weight: bold;"><text style="color: #e64970">LATEST UPDATE:</text> Zapiski za vaje pri Napredni Detektorji Delcev!</span>
+    <span style="font-size: 18px; font-weight: bold;"><text style="color: #e64970">LATEST UPDATE:</text> Dodana Licenca, ker AI smeti po internetu.</span>
     <span href="{% link en/index.md %}"><a href="{% link en/index.md %}"><text  style="font-size: 18px; font-weight: bold; color: #abe650; text-align: right;">View in English</text></a></span></div>
 
 
