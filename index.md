@@ -9,11 +9,11 @@ Zaradi obsega spletne strani nekatere novejše povezave vodijo na pomožne repoz
 
 ---
 <div style="display: flex; justify-content: space-between;">
-    <span style="font-size: 18px; font-weight: bold;"><text style="color: #e64970">LATEST UPDATE:</text> Dodana Licenca, ker AI smeti po internetu.</span>
+    <span style="font-size: 18px; font-weight: bold;"><text style="color: #e64970">LATEST UPDATE:</text> Rahlo updated izgled. Let me know če je slabo. </span>
     <span href="{% link en/index.md %}"><a href="{% link en/index.md %}"><text  style="font-size: 18px; font-weight: bold; color: #abe650; text-align: right;">View in English</text></a></span></div>
 
 
-## 1. Letni
+## 1. Letnik
 * [Astronomska opazovanja]({%link fmf-pages/year1/aop.md %})
 * [Kemija I]({% link fmf-pages/year1/chem.md %})
 * [Klasična fizika]({% link fmf-pages/year1/klafiz.md %})
