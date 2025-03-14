@@ -5,4 +5,4 @@ theme: minima
 minima:
   nav_pages:
     - index.md
-
+  skin: auto
