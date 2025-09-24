@@ -7,9 +7,9 @@ Modelska analiza je starejši brat matematično-fizikalnega praktikuma iz dodipl
 Kljub mojemu prvotnemu razočaranju zelo cenim ta predmet in ga iskreno priporočam vsem, saj ne glede na to, kaj boste počeli v prihodnosti, bo to znanje uporabno. Samo imejte fokus predmeta v mislih. Rad bi omenil, da so naloge v predmetu ocenjene z $8$, če so izpolnjene vse zahteve v navodilih. Ocena nad $8$ je rezervirana za dodatno delo in kreativnost.
 
 ## Naloge in poročila
-* [*1. Naloga:* **Variacijsko Načelo:** Vožnja Mimo Semaforja](#)
-* [*2. Naloga:* **Linearno Programiranje:** Sestavljanje Jedilnika](#)
-* [*3. Naloga:* **Numerična Minimizacija:** Thomsonov Problem](#)
+* [*1. Naloga:* **Variacijsko Načelo:** Vožnja Mimo Semaforja]({% link fmf-pages/mag1/mod1/mod101.md %})
+* [*2. Naloga:* **Linearno Programiranje:** Sestavljanje Jedilnika]({% link fmf-pages/mag1/mod1/mod102.md %})
+* [*3. Naloga:* **Numerična Minimizacija:** Thomsonov Problem]({% link fmf-pages/mag1/mod1/mod103.md %})
 * [*4. Naloga:* **Populacijski Modeli:** SIR Model, Lotka-Volterra Enačbe](#)
 * [*5. Naloga:* **Modeliranje Kemijskih Reakcij:** Binarna Reakcija, Sinteza Bromovodika in Kemijska Ura](#)
 * [*6. Naloga:* **Luščenje in Prilagajanje Modelskih Parametrov** Farmakologija, Delovanje Ledvic in Spektrometer](#)

@@ -9,7 +9,7 @@ excited only to experience quite a bit of disappointment due to my misguided exp
 Despite my initial disappointment, I really appreciate the course and I whole-heartedly recommend it to everyone since no matter what you do in the future, this knowledge will be applicable. Just keep the course focus in mind. I'd also like to mention that the tasks in the course are graded as $8$ if everything in the instructions is done correctly. Grades above $8$ are reserved for additional work and creativity. 
 
 ## Tasks and Reports
-* [*1. Task:* **Variational Principle:** Driving past a traffic light](#)
+* [*1. Task:* **Variational Principle:** Driving past a traffic light]({% link fmf-pages/mag1/mod1/mod101.md %})
 * [*2. Task:* **Linear Programming:** Diet Nutrient Optimization](#)
 * [*3. Task:* **Numerical Minimization:** Thomson's Problem](#)
 * [*4. Task:* **Population Dynamics:** SIR Model, Lotka-Volterra Equations](#)
