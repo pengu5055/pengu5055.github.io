@@ -7,15 +7,16 @@ Modelska analiza je starejši brat matematično-fizikalnega praktikuma iz dodipl
 Kljub mojemu prvotnemu razočaranju zelo cenim ta predmet in ga iskreno priporočam vsem, saj ne glede na to, kaj boste počeli v prihodnosti, bo to znanje uporabno. Samo imejte fokus predmeta v mislih. Rad bi omenil, da so naloge v predmetu ocenjene z $8$, če so izpolnjene vse zahteve v navodilih. Ocena nad $8$ je rezervirana za dodatno delo in kreativnost.
 
 ## Naloge in poročila
-* [**1. Naloga: Variacijsko načelo: Vožnja mimo semaforja**](#)
-* [**2. Naloga: Linearno programiranje: Optimizacija prehrane**](#)
-* [**3. Naloga: Numerično minimiziranje: Thomsonov problem**](#)
-* [**4. Naloga: Populacijski modeli: SIR model, Lotka-Volterra enačbe**](#)
-* [**5. Naloga: Modeliranje kemijskih reakcij: Binarna reakcija, sinteza bromovodika in kemijska ura**](#)
-* [**6. Naloga: Luščenje in prilagajanje modelskih parametrov: Farmakologija, delovanje ledvic in spektrometer**](#)
-* [**7. Naloga: Monte Carlo simulacije: Integracija, rojstvo gama žarkov in odklon nevtronov**](#)
-* [**8. Naloga: Metropolis-Hastings algoritem: Molekularna veriga in Isingov model**](#)
-* [**9. Naloga: Stohastični populacijski modeli: Eksponentni model, Lotka-Volterra in SIR model epidemije**](#)
-* [**10. Naloga: Filtriranje in spektralna analiza: Wienerjev filter in obnova slike z Wienerjevo dekonvolucijo**](#)
-
-WIP.
+* [*1. Naloga:* **Variacijsko Načelo:** Vožnja Mimo Semaforja](#)
+* [*2. Naloga:* **Linearno Programiranje:** Sestavljanje Jedilnika](#)
+* [*3. Naloga:* **Numerična Minimizacija:** Thomsonov Problem](#)
+* [*4. Naloga:* **Populacijski Modeli:** SIR Model, Lotka-Volterra Enačbe](#)
+* [*5. Naloga:* **Modeliranje Kemijskih Reakcij:** Binarna Reakcija, Sinteza Bromovodika in Kemijska Ura](#)
+* [*6. Naloga:* **Luščenje in Prilagajanje Modelskih Parametrov** Farmakologija, Delovanje Ledvic in Spektrometer](#)
+* [*7. Naloga:* **Monte Carlo Simulacije:** Integracija, Rojstvo Gama Žarkov in Odklon Nevtronov**](#)
+* [*8. Naloga:* **Metropolis-Hastings Algoritem:** Molekularna Veriga in Isingov Model](#)
+* [*9. Naloga:* **Stohastični Populacijski Modeli** Eksponentni Model, Lotka-Volterra in SIR Model Epidemije](#)
+* [*10. Naloga:* **Filtering and Spectral Analysis:** Wiener Filter and Image Restoration with Wiener Deconvolution](#)
+* [*11. Naloga:* **Kalmanov Filter:** Filtriranje GPS Podatkov](#)
+* [*12. Naloga:* **Avtoregresija:** Napovedovanje Spektrov in Signalov](#)
+* [*13. Naloga:* **Nevronske Mreže:** Klasifikacija Števk iz MNIST Podatkovnega Seta](#)
