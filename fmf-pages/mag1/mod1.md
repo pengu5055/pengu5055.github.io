@@ -10,7 +10,7 @@ Kljub mojemu prvotnemu razočaranju zelo cenim ta predmet in ga iskreno priporo�
 * [*1. Naloga:* **Variacijsko Načelo:** Vožnja Mimo Semaforja]({% link fmf-pages/mag1/mod1/mod101.md %})
 * [*2. Naloga:* **Linearno Programiranje:** Sestavljanje Jedilnika]({% link fmf-pages/mag1/mod1/mod102.md %})
 * [*3. Naloga:* **Numerična Minimizacija:** Thomsonov Problem]({% link fmf-pages/mag1/mod1/mod103.md %})
-* [*4. Naloga:* **Populacijski Modeli:** SIR Model, Lotka-Volterra Enačbe](#)
+* [*4. Naloga:* **Populacijski Modeli:** SIR Model, Lotka-Volterra Enačbe](https://pengu5055.github.io/fmf-pages/mag1/mod1/mod104.html)
 * [*5. Naloga:* **Modeliranje Kemijskih Reakcij:** Binarna Reakcija, Sinteza Bromovodika in Kemijska Ura](#)
 * [*6. Naloga:* **Luščenje in Prilagajanje Modelskih Parametrov** Farmakologija, Delovanje Ledvic in Spektrometer](#)
 * [*7. Naloga:* **Monte Carlo Simulacije:** Integracija, Rojstvo Gama Žarkov in Odklon Nevtronov**](#)
