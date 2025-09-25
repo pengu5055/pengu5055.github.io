@@ -9,7 +9,7 @@ Zaradi obsega spletne strani nekatere novejše povezave vodijo na pomožne repoz
 
 ---
 <div style="display: flex; justify-content: space-between;">
-    <span style="font-size: 18px; font-weight: bold;"><text style="color: #e64970">LATEST UPDATE:</text> Rahlo updated izgled. Let me know če je slabo. </span>
+    <span style="font-size: 18px; font-weight: bold;"><text style="color: #e64970">LATEST UPDATE:</text> Končno dal Modelsko Analizo 1 gor heh.. lmk če je kaj broken. </span>
     <span href="{% link en/index.md %}"><a href="{% link en/index.md %}"><text  style="font-size: 18px; font-weight: bold; color: #abe650; text-align: right;">View in English</text></a></span></div>
 
 
@@ -50,14 +50,15 @@ Zaradi obsega spletne strani nekatere novejše povezave vodijo na pomožne repoz
 * [Posredovanje fizike]({%link fmf-pages/year3/pf.md %})
 
 ## Magistrski študij - Smer Računalniška Fizika
+* [Modelska Analiza 1]({%link fmf-pages/mag1/mod1.md %})
 * [Napredni Detektorji Delcev in Obdelava Podatkov]({%link fmf-pages/mag1/ndd.md %})
 
 ## Extra Content
 * [Happy (the) Cat]({% link happy/happy.md %})
-* [Osnove programiranja v Pythonu]({% link fmf-pages/extra/python/python.md %})
+* [Osnove programiranja v Pythonu (WIP)]({% link fmf-pages/extra/python/python.md %})
 
 ## Več strani z zapiski
-Pripenjam še nekaj povezav na druge strani, kjer so kolegi objavili svoje delo in zapiske. Nekateri so izjemno impresivni in vredni ogleda. Več izkušenj, več znanja or something like that. Izredno sem navdušen nad tem, da imamo toliko gradiva na voljo! :))
+Pripenjam še nekaj povezav na druge strani, kjer so kolegi objavili svoje delo in zapiske. So izjemno impresivni in vredni ogleda. Več izkušenj, več znanja or something like that. Izredno sem navdušen nad tem, da imamo toliko gradiva na voljo! :))
 
 * [Mašini *aesthetically pleasing* zapiski](https://masakotnik.github.io/)
 * [Elijan Mastnjak Notes](https://ejmastnak.com/notes/fmf/fmf/)
