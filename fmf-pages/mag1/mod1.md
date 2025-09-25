@@ -6,7 +6,12 @@ Modelska analiza je starejši brat matematično-fizikalnega praktikuma iz dodipl
 
 Kljub mojemu prvotnemu razočaranju zelo cenim ta predmet in ga iskreno priporočam vsem, saj ne glede na to, kaj boste počeli v prihodnosti, bo to znanje uporabno. Samo imejte fokus predmeta v mislih. Rad bi omenil, da so naloge v predmetu ocenjene z $8$, če so izpolnjene vse zahteve v navodilih. Ocena nad $8$ je rezervirana za dodatno delo in kreativnost.
 
-## Naloge in poročila
+## Zaključna Naloga
+Poleg rednih tedenskih nalog, moraš na koncu semestra narediti tudi zaključni projekt. Če vzameš tudi Modelsko Analizo 2, potem moraš narediti samo en zaključni projekt za oba predmeta!
+
+* [*Zaključna Naloga:* **Razporejanje Podatkov po Računalniškem Omrežju**]({% link fmf-pages/mag1/mod1/mod100.md %})
+
+## Naloge in Poročila
 * [*1. Naloga:* **Variacijsko Načelo:** Vožnja Mimo Semaforja]({% link fmf-pages/mag1/mod1/mod101.md %})
 * [*2. Naloga:* **Linearno Programiranje:** Sestavljanje Jedilnika]({% link fmf-pages/mag1/mod1/mod102.md %})
 * [*3. Naloga:* **Numerična Minimizacija:** Thomsonov Problem]({% link fmf-pages/mag1/mod1/mod103.md %})
