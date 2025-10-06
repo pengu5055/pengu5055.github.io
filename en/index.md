@@ -7,7 +7,7 @@ This is a collection of notes I made while studying physics at the Faculty of Ma
 
 ---
 <div style="display: flex; justify-content: space-between;">
-    <span style="font-size: 18px; font-weight: bold;"><text style="color: #e64970">LATEST UPDATE:</text> Updated style. Let me know if it sucks. </span>
+    <span style="font-size: 18px; font-weight: bold;"><text style="color: #e64970">LATEST UPDATE:</text> As promised: Quantum Field Theory! </span>
     <span href="{% link en/index.md %}"><a href="{% link index.md %}"><text  style="font-size: 18px; font-weight: bold; color: #abe650; text-align: right;">View in Slovene</text></a></span></div>
 
 ## 1. Letnik
@@ -48,6 +48,7 @@ This is a collection of notes I made while studying physics at the Faculty of Ma
 
 ## Masters - Computational Physics
 * [Advanced Particle Detectors and Data Analysis ]({%link en/mag1/ndd.md %})
+* [Quantum Field Theory]({%link en/mag1/qft.md %})
 
 ## Extra Content
 * [Happy (the) Cat]({% link happy/happy.md %})

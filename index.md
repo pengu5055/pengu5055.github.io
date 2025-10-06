@@ -9,7 +9,7 @@ Zaradi obsega spletne strani nekatere novejše povezave vodijo na pomožne repoz
 
 ---
 <div style="display: flex; justify-content: space-between;">
-    <span style="font-size: 18px; font-weight: bold;"><text style="color: #e64970">LATEST UPDATE:</text> Končno dal Modelsko Analizo 1 gor heh.. lmk če je kaj broken. </span>
+    <span style="font-size: 18px; font-weight: bold;"><text style="color: #e64970">LATEST UPDATE:</text> Kot obljubljeno, skripta za QFT! :)) </span>
     <span href="{% link en/index.md %}"><a href="{% link en/index.md %}"><text  style="font-size: 18px; font-weight: bold; color: #abe650; text-align: right;">View in English</text></a></span></div>
 
 
@@ -50,6 +50,7 @@ Zaradi obsega spletne strani nekatere novejše povezave vodijo na pomožne repoz
 * [Posredovanje fizike]({%link fmf-pages/year3/pf.md %})
 
 ## Magistrski študij - Smer Računalniška Fizika
+* [Kvantna Teorija Polja]({%link fmf-pages/mag1/qft.md %})
 * [Modelska Analiza 1]({%link fmf-pages/mag1/mod1.md %})
 * [Napredni Detektorji Delcev in Obdelava Podatkov]({%link fmf-pages/mag1/ndd.md %})
 

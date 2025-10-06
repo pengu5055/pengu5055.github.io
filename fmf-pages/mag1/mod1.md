@@ -18,7 +18,7 @@ Poleg rednih tedenskih nalog, moraš na koncu semestra narediti tudi zaključni 
 * [*4. Naloga:* **Populacijski Modeli:** SIR Model, Lotka-Volterra Enačbe]({% link fmf-pages/mag1/mod1/mod104.md %})
 * [*5. Naloga:* **Modeliranje Kemijskih Reakcij:** Binarna Reakcija, Sinteza Bromovodika in Kemijska Ura]({% link fmf-pages/mag1/mod1/mod105.md %})
 * [*6. Naloga:* **Luščenje in Prilagajanje Modelskih Parametrov** Farmakologija, Delovanje Ledvic in Spektrometer]({% link fmf-pages/mag1/mod1/mod106.md %})
-* [*7. Naloga:* **Monte Carlo Simulacije:** Integracija, Rojstvo Gama Žarkov in Odklon Nevtronov**]({% link fmf-pages/mag1/mod1/mod107.md %})
+* [*7. Naloga:* **Monte Carlo Simulacije:** Integracija, Rojstvo Gama Žarkov in Odklon Nevtronov]({% link fmf-pages/mag1/mod1/mod107.md %})
 * [*8. Naloga:* **Metropolis-Hastings Algoritem:** Molekularna Veriga in Isingov Model]({% link fmf-pages/mag1/mod1/mod108.md %})
 * [*9. Naloga:* **Stohastični Populacijski Modeli** Eksponentni Model, Lotka-Volterra in SIR Model Epidemije]({% link fmf-pages/mag1/mod1/mod109.md %})
 * [*10. Naloga:* **Filtriranje in Spektralna Analiza:** Wienerjev Filter and Odpravljanje Motenj na Slikah Preko Wienerjeve Dekonvolucije]({% link fmf-pages/mag1/mod1/mod110.md %})
